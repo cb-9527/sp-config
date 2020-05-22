@@ -21,3 +21,9 @@ management:
     web:
       exposure:
         include: hystrix.stream
+
+rabbitmq:
+  host: 192.168.129.128
+  port: 5672
+  username: admin
+  password: admin

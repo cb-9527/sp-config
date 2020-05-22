@@ -26,3 +26,10 @@ ribbon:
   ReadTimeout: 1000
   MaxAutoRetriesNextServer: 1
   MaxAutoRetries: 1
+  
+rabbitmq:
+  host: 192.168.129.128
+  port: 5672
+  username: admin
+  password: admin
+  
